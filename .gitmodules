@@ -1,0 +1,3 @@
+[submodule "firework-particle"]
+	path = firework-particle
+	url = https://github.com/scirelli/fireworks_component.git
